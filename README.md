@@ -1,5 +1,3 @@
-# BaremetalProgramming
-
 Fun Projects to build on FRDM-KL25Z Board
 
 Contains Driver folder for each peripherial on the board ( I2C, LED, accelerometer, etc. ) 
